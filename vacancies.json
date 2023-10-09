@@ -1,0 +1,44 @@
+[
+    {
+        "vacancy": "Python developer",
+        "salary": "Bell Integrator",
+        "name_company": "Bell Integrator",
+        "city": "Москва",
+        "link": "https://spb.hh.ru/vacancy/87944868?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Разработчик (python)",
+        "salary": "до 70 000 ₽ на руки",
+        "name_company": "ООО Национальные Технологии",
+        "city": "Москва",
+        "link": "https://spb.hh.ru/vacancy/87934803?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Разработчик Python",
+        "salary": "Bell Integrator",
+        "name_company": "Bell Integrator",
+        "city": "Москва",
+        "link": "https://spb.hh.ru/vacancy/87934158?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Разработчик Python",
+        "salary": "АО РТ Лабс",
+        "name_company": "АО РТ Лабс",
+        "city": "Москва",
+        "link": "https://spb.hh.ru/vacancy/87931445?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Python developer",
+        "salary": "до 350 000 ₽ на руки",
+        "name_company": "АО АСТ",
+        "city": "Москва, Баррикадная и еще 1 ",
+        "link": "https://spb.hh.ru/vacancy/82138937?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    },
+    {
+        "vacancy": "Python разработчик (Junior)",
+        "salary": "до 60 000 ₽ до вычета налогов",
+        "name_company": "Bewise.ai",
+        "city": "Москва",
+        "link": "https://spb.hh.ru/vacancy/87944930?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python"
+    }
+]
